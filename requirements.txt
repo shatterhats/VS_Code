@@ -1,7 +1,7 @@
 hashids==1.1.0
 requests==2.11.1
 zmq==0.0.0
-selenium==3.0.2
+selenium==4.15.1
 altgraph==0.10.2
 backports-abc==0.5
 backports.ssl-match-hostname==3.5.0.1
