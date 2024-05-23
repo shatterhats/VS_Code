@@ -1,5 +1,5 @@
 hashids==1.1.0
-requests==2.11.1
+requests==2.32.0
 zmq==0.0.0
 selenium==3.0.2
 altgraph==0.10.2
